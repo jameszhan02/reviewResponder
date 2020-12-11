@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SSingh_SZhan_Review_Responder</string>
+    <string name="enter">Enter Review Text</string>
+    <string name="submit">Submit</string>
+    <string name="useintro">Use Custom Introduction</string>
+    <string name="feedback">Thank you for your feedback!</string>
+    <string name="dontusereply">Don\'t use custom reply</string>
+    <string name="imgBtn">Upload Image</string>
+</resources>
